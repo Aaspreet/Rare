@@ -400,7 +400,7 @@ transform: translate(-50%);
 
 #mobileMessages{
   position: absolute;
-width: 120vw;
+width: 1200vw;
 height:1000vh;
 background-color: white;
 left: -10vw;
@@ -421,5 +421,6 @@ z-index: 100;
   text-align: center;
 top: 30vh;
 font-size: 30px;
+width: 80vw;
 
 }
