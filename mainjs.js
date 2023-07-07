@@ -13,7 +13,7 @@ const detectDeviceType = () =>
   /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
     ? 'Mobile'
     : 'Desktop';
-if(detectDeviceType() == 'Mobile'){
+if(detectDeviceType() == 'Desktop'){
   mobileMessage()
 }
 
