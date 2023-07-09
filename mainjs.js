@@ -121,3 +121,19 @@ function mobileMessage(){
 
 mobileThing.classList.add("show")
 }
+
+about.addEventListener('click',(e)=>{
+window.scrollTo({ top: 1000, behavior: "smooth" });
+      handleNavBar();
+} );
+
+pricing.addEventListener("click", (e) => {
+  window.scrollTo({ top: 1900, behavior: "smooth" });
+        handleNavBar();
+});
+
+contact.addEventListener("click", (e) => {
+  window.scrollTo({ top: 2900, behavior: "smooth" });
+        handleNavBar();
+});
+

@@ -347,11 +347,11 @@ transform: translate(-50%);
 
 }
 #aboutText{
-  top: 10vh;
+  top: 8vh;
   font-size: 20px;
-  left: 54vw;
-  text-align: left;
-  white-space: nowrap;
+  left: 30vw;
+  text-align: center;
+width: 35vw;
    color: white;
   line-height: 35px;
     text-shadow: 0px 0px 15px rgb(255, 239, 239);
@@ -365,7 +365,7 @@ transform: translate(-50%);
     text-shadow: 0px 0px 10px #FFD700;
 }
 #pricingText{
-  top: 14vh;
+  top: 11vh;
   font-size: 20px;
   left: 14vw;
   text-align: center;
@@ -380,7 +380,7 @@ transform: translate(-50%);
 #processTitle{
   position: absolute;
   top: -2vh;
-  left: 36vw;
+  left: 39vw;
   color: #fffdef;
       text-shadow: 0px 0px 10px #FFD700;
 
@@ -389,7 +389,7 @@ transform: translate(-50%);
   position: relative;
   top: 15vh;
   font-size: 20px;
-  left: 12vw;
+  left: 11vw;
   text-align: center;
   white-space: normal;
   line-height: 35px;
